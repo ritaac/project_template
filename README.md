@@ -1,9 +1,9 @@
 # MATLAB HS13 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed)
+> * Group Name: Rita Achermann(be creatfive!)
+> * Group participants names: none
+> * Project Title: Self organized criticality in EEG
 
 ## General Introduction
 
